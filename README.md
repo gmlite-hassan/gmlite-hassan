@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hassan 👋
 
-<!--
-**gmlite-hassan/gmlite-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer who enjoys building modern, clean, and responsive websites.
+I love learning new technologies and improving my skills every day.
 
-Here are some ideas to get you started:
+### 💻 What I Do
+- Frontend Web Development
+- Responsive Website Design
+- UI/UX Styling
+- Learning JavaScript & modern web tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- HTML
+- CSS
+- JavaScript
+
+### 🚀 Goal
+To become a skilled developer and build real-world projects that help people and businesses.
