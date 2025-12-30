@@ -6,19 +6,19 @@ I enjoy learning new technologies and turning ideas into interactive digital exp
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23ff2e2e?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hassan_deadborn) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ff2e2e?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-%23ff2e2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassan-Shamail)
+[![Instagram](https://img.shields.io/badge/Instagram-%231c0f13?style=for-the-badge&logo=Instagram&logoColor=crimson)](https://instagram.com/hassan_deadborn) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231c0f13?style=for-the-badge&logo=LinkedIn&logoColor=crimson)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-%231c0f13?style=for-the-badge&logo=github&logoColor=crimson)](https://github.com/Hassan-Shamail)
 
 ---
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-%23ff2e2e?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%23ff2e2e?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23ff2e2e?style=for-the-badge&logo=javascript&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%23ff2e2e?style=for-the-badge&logo=python&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/NodeJS-%23ff2e2e?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/React-%23ff2e2e?style=for-the-badge&logo=react&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%231c0f13?style=for-the-badge&logo=html5&logoColor=crimson) 
+![CSS3](https://img.shields.io/badge/CSS3-%231c0f13?style=for-the-badge&logo=css3&logoColor=crimson) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%231c0f13?style=for-the-badge&logo=javascript&logoColor=crimson) 
+![Python](https://img.shields.io/badge/Python-%231c0f13?style=for-the-badge&logo=python&logoColor=crimson) 
+![NodeJS](https://img.shields.io/badge/NodeJS-%231c0f13?style=for-the-badge&logo=node.js&logoColor=crimson) 
+![React](https://img.shields.io/badge/React-%231c0f13?style=for-the-badge&logo=react&logoColor=crimson)  
 
 ---
 
@@ -44,6 +44,6 @@ I enjoy learning new technologies and turning ideas into interactive digital exp
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=gmlite-hassan&icon=0&color=ff2e2e)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=gmlite-hassan&icon=0&color=8b0000)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
